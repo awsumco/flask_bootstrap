@@ -1,0 +1,5 @@
+app.db
+venv 
+*.bak
+config.py
+db_repository/
