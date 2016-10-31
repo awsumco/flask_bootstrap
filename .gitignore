@@ -1,5 +1,6 @@
 app.db
 venv 
 *.bak
+*.pyc
 config.py
 db_repository/
